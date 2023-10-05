@@ -37,7 +37,7 @@ First you need to install NodeJs on your local system
 
 1. Clone the repo
    ```sh
-      https://github.com/krtk-097/Sync-Pen.git
+   https://github.com/krtk-097/Sync-Pen.git
    ```
 2. cd into server folder
   ```sh
