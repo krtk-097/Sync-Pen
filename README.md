@@ -1,10 +1,8 @@
 
-# Code Online (Realtime collabration web code editor)
+# SyncPen (Realtime collabration web code editor)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Image Alt](https://raw.githubusercontent.com/NayanPatil1998/Code_online/main/public/ww1.png)](https://youtu.be/KTxJVS_zE8A)
 
 
 Code Online is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets.
