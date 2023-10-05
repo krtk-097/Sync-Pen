@@ -13,7 +13,6 @@ Code Online is an online community for testing and showcasing user-created HTML,
 
 ### Built With
 
-* [NextJs](https://nextjs.org/)
 * [ReactJs](https://reactjs.org/)
 * [Socket.io]
 * [Express]
